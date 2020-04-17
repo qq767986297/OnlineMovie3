@@ -56,6 +56,7 @@ public class LoginActivity extends BaseActivity {
                 startActivity(intent);
                 break;
             case R.id.tv_login_reg:
+                //跳转
                 Intent intent2 = new Intent(LoginActivity.this, RegisterActivity.class);
                 startActivity(intent2);
                 break;
