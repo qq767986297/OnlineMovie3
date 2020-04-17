@@ -33,7 +33,7 @@ public class LoginActivity extends BaseActivity {
 
     @Override
     protected void initView() {
-
+        //找控件
     }
 
     @Override
